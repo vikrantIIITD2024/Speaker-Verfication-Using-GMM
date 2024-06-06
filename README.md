@@ -1,0 +1,1 @@
+# Speaker-Verfication-Using-GMM
